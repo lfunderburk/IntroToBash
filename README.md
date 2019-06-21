@@ -1,11 +1,10 @@
-# IntroToBash
+# Shell Scripting Part I: Structure and basic commands : 2019-06-21 | SFU Library
 ## Laura Gutierrez Funderburk | Simon Fraser University | SciProg Workshop
 
 Workshop material for SciProg's workshop on Bash and shell scripting.
 
 https://www.lib.sfu.ca/about/branches-depts/rc/services/workshops/34433
 
-Shell Scripting Part I: Structure and basic commands : 2019-06-21 | SFU Library
 
 ### Workshop Description
 
