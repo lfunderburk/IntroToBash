@@ -1,0 +1,87 @@
+# Assembly name:  ASM299302v1
+# Organism name:  Arcobacter cryaerophilus (e-proteobacteria)
+# Infraspecific name:  strain=LMG 9065
+# Taxid:          28198
+# BioSample:      SAMN07515814
+# BioProject:     PRJNA369468
+# Submitter:      Universitat Rovira i Virgili
+# Date:           2018-03-09
+# Assembly type:  n/a
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    NXGI01
+# Assembly method: SPAdes v. 3.9
+# Expected final version: yes
+# Genome coverage: 75x
+# Sequencing technology: Illumina MiSeq
+# GenBank assembly accession: GCA_002993025.1
+# RefSeq assembly accession: GCF_002993025.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002993035.1	GCF_002993035.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+NODE_10_length_138871_cov_21.171490	unplaced-scaffold	na	na	NXGI01000010.1	=	NZ_NXGI01000010.1	Primary Assembly	139017	na
+NODE_11_length_613_cov_241.753677	unplaced-scaffold	na	na	NXGI01000011.1	=	NZ_NXGI01000011.1	Primary Assembly	759	na
+NODE_12_length_222263_cov_21.371019	unplaced-scaffold	na	na	NXGI01000012.1	=	NZ_NXGI01000012.1	Primary Assembly	222409	na
+NODE_13_length_1143_cov_124.415573	unplaced-scaffold	na	na	NXGI01000013.1	=	NZ_NXGI01000013.1	Primary Assembly	1289	na
+NODE_15_length_29391_cov_26.974855	unplaced-scaffold	na	na	NXGI01000014.1	=	NZ_NXGI01000014.1	Primary Assembly	29537	na
+NODE_16_length_790_cov_93.093674	unplaced-scaffold	na	na	NXGI01000015.1	=	NZ_NXGI01000015.1	Primary Assembly	936	na
+NODE_17_length_43448_cov_22.912632	unplaced-scaffold	na	na	NXGI01000016.1	=	NZ_NXGI01000016.1	Primary Assembly	43594	na
+NODE_18_length_159217_cov_19.750103	unplaced-scaffold	na	na	NXGI01000017.1	=	NZ_NXGI01000017.1	Primary Assembly	159363	na
+NODE_19_length_4926_cov_26.505888	unplaced-scaffold	na	na	NXGI01000018.1	=	NZ_NXGI01000018.1	Primary Assembly	5072	na
+NODE_1_length_63252_cov_23.492474	unplaced-scaffold	na	na	NXGI01000001.1	=	NZ_NXGI01000001.1	Primary Assembly	63398	na
+NODE_20_length_34029_cov_21.170149	unplaced-scaffold	na	na	NXGI01000019.1	=	NZ_NXGI01000019.1	Primary Assembly	34175	na
+NODE_21_length_247_cov_127.267204	unplaced-scaffold	na	na	NXGI01000020.1	=	NZ_NXGI01000020.1	Primary Assembly	393	na
+NODE_22_length_114787_cov_22.892235	unplaced-scaffold	na	na	NXGI01000021.1	=	NZ_NXGI01000021.1	Primary Assembly	114933	na
+NODE_23_length_2495_cov_119.338676	unplaced-scaffold	na	na	NXGI01000022.1	=	NZ_NXGI01000022.1	Primary Assembly	2641	na
+NODE_24_length_153_cov_313.254913	unplaced-scaffold	na	na	NXGI01000023.1	=	NZ_NXGI01000023.1	Primary Assembly	299	na
+NODE_25_length_342_cov_236.263153	unplaced-scaffold	na	na	NXGI01000024.1	=	NZ_NXGI01000024.1	Primary Assembly	488	na
+NODE_26_length_768_cov_29.178385	unplaced-scaffold	na	na	NXGI01000025.1	=	NZ_NXGI01000025.1	Primary Assembly	914	na
+NODE_27_length_10454_cov_18.512722	unplaced-scaffold	na	na	NXGI01000026.1	=	NZ_NXGI01000026.1	Primary Assembly	10600	na
+NODE_29_length_192_cov_44.296875	unplaced-scaffold	na	na	NXGI01000027.1	=	NZ_NXGI01000027.1	Primary Assembly	338	na
+NODE_2_length_442247_cov_24.631144	unplaced-scaffold	na	na	NXGI01000002.1	=	NZ_NXGI01000002.1	Primary Assembly	442393	na
+NODE_30_length_147_cov_51.122448	unplaced-scaffold	na	na	NXGI01000028.1	=	NZ_NXGI01000028.1	Primary Assembly	293	na
+NODE_31_length_992_cov_70.752014	unplaced-scaffold	na	na	NXGI01000029.1	=	NZ_NXGI01000029.1	Primary Assembly	1138	na
+NODE_32_length_34105_cov_24.937956	unplaced-scaffold	na	na	NXGI01000030.1	=	NZ_NXGI01000030.1	Primary Assembly	34251	na
+NODE_33_length_340_cov_307.538239	unplaced-scaffold	na	na	NXGI01000031.1	=	NZ_NXGI01000031.1	Primary Assembly	486	na
+NODE_34_length_10860_cov_22.659853	unplaced-scaffold	na	na	NXGI01000032.1	=	NZ_NXGI01000032.1	Primary Assembly	11006	na
+NODE_35_length_1458_cov_66.099449	unplaced-scaffold	na	na	NXGI01000033.1	=	NZ_NXGI01000033.1	Primary Assembly	1604	na
+NODE_36_length_14639_cov_22.926020	unplaced-scaffold	na	na	NXGI01000034.1	=	NZ_NXGI01000034.1	Primary Assembly	14785	na
+NODE_3_length_25606_cov_21.687691	unplaced-scaffold	na	na	NXGI01000003.1	=	NZ_NXGI01000003.1	Primary Assembly	25752	na
+NODE_40_length_6761_cov_19.471380	unplaced-scaffold	na	na	NXGI01000035.1	=	NZ_NXGI01000035.1	Primary Assembly	6907	na
+NODE_44_length_16107_cov_23.758924	unplaced-scaffold	na	na	NXGI01000036.1	=	NZ_NXGI01000036.1	Primary Assembly	16253	na
+NODE_45_length_284_cov_45.021126	unplaced-scaffold	na	na	NXGI01000037.1	=	NZ_NXGI01000037.1	Primary Assembly	430	na
+NODE_4_length_98817_cov_22.984354	unplaced-scaffold	na	na	NXGI01000004.1	=	NZ_NXGI01000004.1	Primary Assembly	98963	na
+NODE_51_length_347_cov_281.383270	unplaced-scaffold	na	na	NXGI01000038.1	=	NZ_NXGI01000038.1	Primary Assembly	493	na
+NODE_52_length_1404_cov_25.549145	unplaced-scaffold	na	na	NXGI01000039.1	=	NZ_NXGI01000039.1	Primary Assembly	1550	na
+NODE_53_length_178_cov_44.404495	unplaced-scaffold	na	na	NXGI01000040.1	=	NZ_NXGI01000040.1	Primary Assembly	324	na
+NODE_54_length_153_cov_138.490189	unplaced-scaffold	na	na	NXGI01000041.1	=	NZ_NXGI01000041.1	Primary Assembly	299	na
+NODE_56_length_423_cov_28.527187	unplaced-scaffold	na	na	NXGI01000042.1	=	NZ_NXGI01000042.1	Primary Assembly	569	na
+NODE_59_length_160_cov_63.068748	unplaced-scaffold	na	na	NXGI01000043.1	=	NZ_NXGI01000043.1	Primary Assembly	306	na
+NODE_5_length_189993_cov_25.826004	unplaced-scaffold	na	na	NXGI01000005.1	=	NZ_NXGI01000005.1	Primary Assembly	190139	na
+NODE_60_length_1080_cov_133.765747	unplaced-scaffold	na	na	NXGI01000044.1	=	NZ_NXGI01000044.1	Primary Assembly	1226	na
+NODE_64_length_152_cov_62.605263	unplaced-scaffold	na	na	NXGI01000045.1	=	NZ_NXGI01000045.1	Primary Assembly	298	na
+NODE_68_length_28966_cov_21.305254	unplaced-scaffold	na	na	NXGI01000046.1	=	NZ_NXGI01000046.1	Primary Assembly	29112	na
+NODE_6_length_4858_cov_822.166138	unplaced-scaffold	na	na	NXGI01000006.1	=	NZ_NXGI01000006.1	Primary Assembly	5004	na
+NODE_72_length_795_cov_46.400002	unplaced-scaffold	na	na	NXGI01000047.1	=	NZ_NXGI01000047.1	Primary Assembly	941	na
+NODE_73_length_181_cov_36.939228	unplaced-scaffold	na	na	NXGI01000048.1	=	NZ_NXGI01000048.1	Primary Assembly	327	na
+NODE_74_length_342_cov_27.327486	unplaced-scaffold	na	na	NXGI01000049.1	=	NZ_NXGI01000049.1	Primary Assembly	488	na
+NODE_75_length_221_cov_34.782806	unplaced-scaffold	na	na	NXGI01000050.1	=	NZ_NXGI01000050.1	Primary Assembly	367	na
+NODE_76_length_160_cov_35.612499	unplaced-scaffold	na	na	NXGI01000051.1	=	NZ_NXGI01000051.1	Primary Assembly	306	na
+NODE_77_length_207_cov_33.454105	unplaced-scaffold	na	na	NXGI01000052.1	=	NZ_NXGI01000052.1	Primary Assembly	353	na
+NODE_7_length_70397_cov_24.460318	unplaced-scaffold	na	na	NXGI01000007.1	=	NZ_NXGI01000007.1	Primary Assembly	70543	na
+NODE_85_length_167_cov_52.766468	unplaced-scaffold	na	na	NXGI01000053.1	=	NZ_NXGI01000053.1	Primary Assembly	313	na
+NODE_86_length_259_cov_52.486488	unplaced-scaffold	na	na	NXGI01000054.1	=	NZ_NXGI01000054.1	Primary Assembly	405	na
+NODE_88_length_147_cov_21.122450	unplaced-scaffold	na	na	NXGI01000055.1	=	NZ_NXGI01000055.1	Primary Assembly	293	na
+NODE_8_length_35188_cov_23.007559	unplaced-scaffold	na	na	NXGI01000008.1	=	NZ_NXGI01000008.1	Primary Assembly	35334	na
+NODE_91_length_158418_cov_24.232473	unplaced-scaffold	na	na	NXGI01000056.1	=	NZ_NXGI01000056.1	Primary Assembly	158564	na
+NODE_9_length_80025_cov_22.376221	unplaced-scaffold	na	na	NXGI01000009.1	=	NZ_NXGI01000009.1	Primary Assembly	80171	na
