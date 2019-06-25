@@ -4,14 +4,14 @@
 
 
 # Download Workshop Material
-#git clone https://github.com/lfunderburk/IntroToBash
+git clone https://github.com/lfunderburk/IntroToBash
 
 echo "This script processes DATA files"
 echo "" 
 echo "Changing directories to the Spreadsheets folder"
 
 # Your path to the IntroToBask workshop material goes here - note it will be different from my path
-cd /home/lgutierr/Documents/Notebooks/SciProgWorkshops/IntroToBash/DATA/Spreadsheets/
+cd /IntroToBash/DATA/Spreadsheets/
 
 echo "" 
 echo "Show us our current directory"
@@ -59,7 +59,7 @@ echo ""
 echo "Changing directories to the Sequences folder"
 
 # Your path to the IntroToBask workshop material goes here - note it will be different from my path
-cd /home/lgutierr/Documents/Notebooks/SciProgWorkshops/IntroToBash/DATA/Sequences/
+cd /IntroToBash/DATA/Sequences/
 
 echo "" 
 echo "Show us our current directory"
