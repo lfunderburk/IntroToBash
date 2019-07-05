@@ -66,8 +66,6 @@ echo " "
 
 source /home/centos/astro/bin/activate
 
-module load python/3.7.0
-
 python mypythonscript.py ${FileDir}${FileName}
 
 deactivate
