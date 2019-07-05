@@ -31,11 +31,16 @@ echo " "
 #Where are files found
 FileDir=/home/user001/projects/def-sponsor00/user001/IntroToBash/DATA/Spreadsheets/
 
+DataDir=/home/user001/projects/def-sponsor00/user001/IntroToBash/DATA/Sequences/
+
 # Array data
 array_data=/home/user001/projects/def-sponsor00/user001/IntroToBash/Scripts/
 
 # Scripts director
 script=/home/user001/projects/def-sponsor00/user001/IntroToBash/Scripts/
+
+# Software directory
+software=/home/user001/projects/def-sponsor00/user001/IntroToBash/Software/
 
 
 #######################
@@ -55,7 +60,7 @@ echo " "
 echo "File name: " ${FileName}
 
 #######################
-#### Sanity Checking ####
+#### Python script ####
 #######################
 
 cd ${script}
@@ -66,10 +71,27 @@ echo " "
 
 source /home/centos/astro/bin/activate
 
+
 python mypythonscript.py ${FileDir}${FileName}
 
 deactivate
 
-echo "End Python Sanity Check"
+echo "End Python Script"
+
+
+#######################
+#### MSA Using Software ####
+#######################
+
+cd ${software}
+
+echo "Running Muscle to do MSA"
+echo ""
+
+chmod a+x muscle3.8.31_i86linux64
+
+./muscle3.8.31_i86linux64
+
+
 
 
