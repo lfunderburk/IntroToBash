@@ -121,10 +121,5 @@ for x in *.fasta;do
 done
 
 
-# Sample command to run a Python script
-#python scriptname.py variables 
-
-
-
 
 
