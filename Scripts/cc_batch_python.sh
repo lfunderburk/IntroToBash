@@ -93,3 +93,5 @@ chmod a+x muscle3.8.31_i86linux64
 ./muscle3.8.31_i86linux64
 
 #./muscle3.8.31_i86linux64 -cluster -in ${DataDir}NCGICombined.fasta -tree1 tree.phy -maxiters 1 -diags
+
+echo "End script"
